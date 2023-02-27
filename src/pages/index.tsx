@@ -27,8 +27,8 @@ export default function Home() {
         left: `40px`,
         bottom: `40px`,
       }}>
-        <div>Full-stack</div>
-        <div>Web development</div>
+        <div>Full-Stack</div>
+        <div>Web Development</div>
       </div>
 
       <div style={{
