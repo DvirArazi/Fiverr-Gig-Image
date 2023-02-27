@@ -1,7 +1,6 @@
 # Fiverr Gig Image
 
-<img src="https://user-images.githubusercontent.com/108592948/221641402-4858c447-5e58-4677-85e0-0f118334071b.png" alt="fiverr gig image" width="500px"/>
-
+<img src="https://user-images.githubusercontent.com/108592948/221644290-c40dc348-79ba-4c5a-9836-c7ee6add1040.png" alt="fiverr gig image" width="500px"/>
 
 ## Running the project
 
